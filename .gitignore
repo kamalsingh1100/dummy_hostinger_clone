@@ -1,3 +1,4 @@
-.vscode
-font
-img
+**/.vscode/
+**/font/
+**/img/
+**/webfonts/
